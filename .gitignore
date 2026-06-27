@@ -1,0 +1,11 @@
+.env
+*.db
+*.sqlite
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+knowledge/*
+!knowledge/.gitkeep
+.DS_Store
+Thumbs.db
